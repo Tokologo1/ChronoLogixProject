@@ -1,0 +1,71 @@
+/* default browser styles */
+/*body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+/* banner */
+/*.Banner {
+  text-align: center;
+  background-image: url('background-image.jpg');
+  align-items: center;
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px;
+}
+
+/* hero section */
+/*.Hero {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('background-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* form container */
+/*.FormContainer {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* form elements */
+/*.Form input[type="text"],
+.Form input[type="password"],
+.Form button[type="submit"],
+.Form button[type="button"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.Form button[type="submit"],
+.Form button[type="button"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.Form button[type="submit"]:hover,
+.Form button[type="button"]:hover {
+  background-color: #0056b3;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/

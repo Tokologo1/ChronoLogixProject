@@ -1,0 +1,14 @@
+/* GoogleSignInButton.css */
+
+/* Style the button */
+.google-sign-in-button {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+  
+.google-sign-in-button:hover {
+    background-color: #357ae8; /* Slightly darker blue on hover */
+}
